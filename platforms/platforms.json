@@ -2,5 +2,6 @@
     "firefoxos": "3.6.3",
     "windows": "4.4.2",
     "blackberry10": "3.8.0",
-    "osx": "4.0.1"
+    "osx": "4.0.1",
+    "browser": "4.1.0"
 }
