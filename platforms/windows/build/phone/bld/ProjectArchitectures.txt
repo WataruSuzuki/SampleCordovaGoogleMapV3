@@ -1,0 +1,1 @@
+C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\CordovaApp.Phone.jsproj;neutral

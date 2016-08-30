@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-LIK9SGU</Machine>
+    <WindowsUser>watar</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3f19dd00-6ebe-11e6-a677-d98cd88c8248</PackageIdentityName>
+    <PackageIdentityPublisher>CN=%24username%24</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\build\phone\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\build\phone\debug\anycpu\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\SplashScreenPhone.scale-240.png">
+      <PackagePath>images\SplashScreenPhone.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\images\ico_swipe_right_s.png">
+      <PackagePath>www\images\ico_swipe_right_s.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\loader.css">
+      <PackagePath>www\components\loader.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\font_awesome\css\font-awesome.css">
+      <PackagePath>www\components\monaca-onsenui\css\font_awesome\css\font-awesome.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\font_awesome\css\font-awesome.min.css">
+      <PackagePath>www\components\monaca-onsenui\css\font_awesome\css\font-awesome.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\ionicons\css\ionicons.css">
+      <PackagePath>www\components\monaca-onsenui\css\ionicons\css\ionicons.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\ionicons\css\ionicons.min.css">
+      <PackagePath>www\components\monaca-onsenui\css\ionicons\css\ionicons.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\onsen-css-components-blue-basic-theme.css">
+      <PackagePath>www\components\monaca-onsenui\css\onsen-css-components-blue-basic-theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\onsen-css-components-blue-theme.css">
+      <PackagePath>www\components\monaca-onsenui\css\onsen-css-components-blue-theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\onsen-css-components-dark-theme.css">
+      <PackagePath>www\components\monaca-onsenui\css\onsen-css-components-dark-theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\onsen-css-components-default.css">
+      <PackagePath>www\components\monaca-onsenui\css\onsen-css-components-default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\onsen-css-components-purple-theme.css">
+      <PackagePath>www\components\monaca-onsenui\css\onsen-css-components-purple-theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\onsen-css-components-sunshine-theme.css">
+      <PackagePath>www\components\monaca-onsenui\css\onsen-css-components-sunshine-theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\onsen-css-components.css">
+      <PackagePath>www\components\monaca-onsenui\css\onsen-css-components.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\onsenui.css">
+      <PackagePath>www\components\monaca-onsenui\css\onsenui.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\js\angular\angular-csp.css">
+      <PackagePath>www\components\monaca-onsenui\js\angular\angular-csp.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\css\splashscreen.css">
+      <PackagePath>www\css\splashscreen.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\css\style.css">
+      <PackagePath>www\css\style.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\loader.js">
+      <PackagePath>www\components\loader.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-cordova-loader\cordova-loader.js">
+      <PackagePath>www\components\monaca-cordova-loader\cordova-loader.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-core-utils\monaca-core-utils.js">
+      <PackagePath>www\components\monaca-core-utils\monaca-core-utils.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\js\angular\angular-animate.js">
+      <PackagePath>www\components\monaca-onsenui\js\angular\angular-animate.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\js\angular\angular-touch.js">
+      <PackagePath>www\components\monaca-onsenui\js\angular\angular-touch.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\js\angular\angular.js">
+      <PackagePath>www\components\monaca-onsenui\js\angular\angular.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\js\angular\angular.min.js">
+      <PackagePath>www\components\monaca-onsenui\js\angular\angular.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\js\onsenui.js">
+      <PackagePath>www\components\monaca-onsenui\js\onsenui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\js\onsenui.min.js">
+      <PackagePath>www\components\monaca-onsenui\js\onsenui.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\js\onsenui_all.js">
+      <PackagePath>www\components\monaca-onsenui\js\onsenui_all.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\js\onsenui_all.min.js">
+      <PackagePath>www\components\monaca-onsenui\js\onsenui_all.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\cordova-js-src\confighelper.js">
+      <PackagePath>www\cordova-js-src\confighelper.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\cordova-js-src\splashscreen.js">
+      <PackagePath>www\cordova-js-src\splashscreen.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\scripts\controller.js">
+      <PackagePath>www\scripts\controller.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-cordova-loader\bower.json">
+      <PackagePath>www\components\monaca-cordova-loader\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-core-utils\bower.json">
+      <PackagePath>www\components\monaca-core-utils\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\bower.json">
+      <PackagePath>www\components\monaca-onsenui\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\js\angular\bower.json">
+      <PackagePath>www\components\monaca-onsenui\js\angular\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\font_awesome\fonts\fontawesome-webfont.eot">
+      <PackagePath>www\components\monaca-onsenui\css\font_awesome\fonts\fontawesome-webfont.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\ionicons\fonts\ionicons.eot">
+      <PackagePath>www\components\monaca-onsenui\css\ionicons\fonts\ionicons.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\font_awesome\fonts\fontawesome-webfont.svg">
+      <PackagePath>www\components\monaca-onsenui\css\font_awesome\fonts\fontawesome-webfont.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\ionicons\fonts\ionicons.svg">
+      <PackagePath>www\components\monaca-onsenui\css\ionicons\fonts\ionicons.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\font_awesome\fonts\fontawesome-webfont.ttf">
+      <PackagePath>www\components\monaca-onsenui\css\font_awesome\fonts\fontawesome-webfont.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\ionicons\fonts\ionicons.ttf">
+      <PackagePath>www\components\monaca-onsenui\css\ionicons\fonts\ionicons.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\font_awesome\fonts\fontawesome-webfont.woff">
+      <PackagePath>www\components\monaca-onsenui\css\font_awesome\fonts\fontawesome-webfont.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\ionicons\fonts\ionicons.woff">
+      <PackagePath>www\components\monaca-onsenui\css\ionicons\fonts\ionicons.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\css\font_awesome\fonts\FontAwesome.otf">
+      <PackagePath>www\components\monaca-onsenui\css\font_awesome\fonts\FontAwesome.otf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\js\angular\angular.min.js.gzip">
+      <PackagePath>www\components\monaca-onsenui\js\angular\angular.min.js.gzip</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\components\monaca-onsenui\js\angular\angular.min.js.map">
+      <PackagePath>www\components\monaca-onsenui\js\angular\angular.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\map.html">
+      <PackagePath>www\map.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\menu.html">
+      <PackagePath>www\menu.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\settings.html">
+      <PackagePath>www\settings.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\www\README.md">
+      <PackagePath>www\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\SampleCordovaGoogleMapV3\platforms\windows\build\phone\debug\anycpu\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
