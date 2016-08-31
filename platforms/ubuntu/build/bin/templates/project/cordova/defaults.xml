@@ -1,6 +1,5 @@
-#!/usr/bin/env node
-
-/*
+<?xml version='1.0' encoding='utf-8'?>
+<!--
        Licensed to the Apache Software Foundation (ASF) under one
        or more contributor license agreements.  See the NOTICE file
        distributed with this work for additional information
@@ -17,13 +16,20 @@
        KIND, either express or implied.  See the License for the
        specific language governing permissions and limitations
        under the License.
-*/
+-->
+<widget id="io.cordova.hellocordova" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 
-// Coho updates this line:
-var VERSION = "4.4.2";
+      <!-- icon requirement for Ubuntu click packages -->
+      <icon src="www/img/logo.png" />
 
-module.exports.version = VERSION;
+      <preference name="loglevel" value="DEBUG" />
+      <!--
+        <preference name="splashscreen" value="resourceName" />
+        <preference name="backgroundColor" value="0xFFF" />
+        <preference name="loadUrlTimeoutValue" value="20000" />
+        <preference name="InAppBrowserStorageEnabled" value="true" />
+        <preference name="disallowOverscroll" value="true" />
+      -->
 
-if (!module.parent) {
-    console.log(VERSION);
-}
+</widget>
+
