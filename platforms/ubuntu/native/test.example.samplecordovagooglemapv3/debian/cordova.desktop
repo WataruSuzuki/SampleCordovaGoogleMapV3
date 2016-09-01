@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=SampleCordovaGoogleMapV3
+Exec=/opt/test.example.samplecordovagooglemapv3/cordova-ubuntu
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Icon=/opt/test.example.samplecordovagooglemapv3/www/logo.png

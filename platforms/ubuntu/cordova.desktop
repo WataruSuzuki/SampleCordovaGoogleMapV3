@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Hello Cordova
+Name=SampleCordovaGoogleMapV3
 Exec=./cordova-ubuntu www/
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
-Icon=qmlscene
+Icon=www/logo.png
