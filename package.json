@@ -7,7 +7,11 @@
       "cordova-plugin-whitelist": {}
     },
     "platforms": [
-      "osx"
+      "osx",
+      "ios"
     ]
+  },
+  "dependencies": {
+    "cordova-ios": "^5.1.1"
   }
 }
